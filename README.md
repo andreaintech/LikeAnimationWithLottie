@@ -7,3 +7,6 @@ Original idea from React [Native School - Like Animation with Lottie React Nativ
 
 
 ![like-animation](https://user-images.githubusercontent.com/20091777/168950137-d2694ae0-c683-4f31-a942-342065916f11.gif)
+
+
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
